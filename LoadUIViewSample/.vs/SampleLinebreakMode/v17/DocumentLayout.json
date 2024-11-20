@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Samples\\LoadUIViewSample\\LoadUIViewSample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A66547AD-9692-49F5-ACD1-99DEFD024829}|SampleLinebreakMode.csproj|d:\\samples\\loaduiviewsample\\loaduiviewsample\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A66547AD-9692-49F5-ACD1-99DEFD024829}|SampleLinebreakMode.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66547AD-9692-49F5-ACD1-99DEFD024829}|SampleLinebreakMode.csproj|d:\\samples\\loaduiviewsample\\loaduiviewsample\\samplelinebreakmode.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A66547AD-9692-49F5-ACD1-99DEFD024829}|SampleLinebreakMode.csproj|solutionrelative:samplelinebreakmode.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SampleLinebreakMode.csproj",
+              "DocumentMoniker": "D:\\Samples\\LoadUIViewSample\\LoadUIViewSample\\SampleLinebreakMode.csproj",
+              "RelativeDocumentMoniker": "SampleLinebreakMode.csproj",
+              "ToolTip": "D:\\Samples\\LoadUIViewSample\\LoadUIViewSample\\SampleLinebreakMode.csproj",
+              "RelativeToolTip": "SampleLinebreakMode.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-20T08:49:41.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\Samples\\LoadUIViewSample\\LoadUIViewSample\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MainPage.xaml",
+              "ToolTip": "D:\\Samples\\LoadUIViewSample\\LoadUIViewSample\\MainPage.xaml",
+              "RelativeToolTip": "MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-20T08:48:04.332Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
